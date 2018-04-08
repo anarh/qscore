@@ -1,0 +1,24 @@
+{
+  "name": "qscore",
+  "version": "1.0.0",
+  "description": "Repository quality score based on common accepted best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anarh/qscore.git"
+  },
+  "keywords": [
+    "qscore",
+    "quality",
+    "score"
+  ],
+  "author": "Emmanuel Addo Narh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anarh/qscore/issues"
+  },
+  "homepage": "https://github.com/anarh/qscore#readme"
+}
